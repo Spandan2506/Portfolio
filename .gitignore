@@ -1,3 +1,7 @@
+# Deployment & Local tooling
+.vercel/
+.lovable/
+
 # Logs
 logs
 *.log
